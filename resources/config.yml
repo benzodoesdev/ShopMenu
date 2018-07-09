@@ -5,6 +5,9 @@ categories:
   armors:
     img-url: 'https://image.ibb.co/cRO3h8/skin_2013052515355615141both.png'
     text: "§bArmors"
+  blocks:
+    img-url: 'textures/blocks/oak_wood'
+    text: "§aBlocks
 
 items:
   # itemId : itemMeta : optionName : price per item count : url/path : imgpath
@@ -22,3 +25,9 @@ items:
     - "311:0:§bDiamond Chestplate:350:path:textures/items/diamond_chestplate"
     - "312:0:§bDiamond Leggings:450:path:textures/items/diamond_leggings"
     - "313:0:§bDiamond Boots:550:path:textures/items/diamond_boots"
+  blocks:
+    - "17:0:Oak Wood:100:path:textures/blocks/oak_wood"
+    - "1:0:Stone:200:path/textures/blocks/stone"
+    - "2:0:Grass:300:path/textures/blocks/stone"
+    - "5:0:Oak Wood Plank"
+  
